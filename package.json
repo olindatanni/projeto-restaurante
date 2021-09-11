@@ -9,6 +9,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "dotenv": "^10.0.0",
     "google-maps-react": "^2.0.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -20,7 +21,8 @@
     "redux": "^4.0.5",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.1.1",
-    "styled-reset": "^4.2.1"
+    "styled-reset": "^4.2.1",
+    "yarm": "^0.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
